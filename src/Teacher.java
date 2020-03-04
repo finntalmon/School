@@ -6,6 +6,7 @@ public class Teacher extends Person{
     public Teacher(String name, String subject) {
         super(name);
         this.subject = subject;
+
     }
 
     public String getSubject() {

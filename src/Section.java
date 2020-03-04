@@ -16,6 +16,7 @@ public class Section {
         this.teacher = teacher;
     }
 
+
     public Student[] getStudents() {
         return students;
     }

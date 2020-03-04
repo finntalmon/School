@@ -17,6 +17,7 @@ public class Student extends Person{
 
 
 
+
     public void addStudent(Section s) {
         sections[sectionCount] = s;
         sectionCount++;
